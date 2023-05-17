@@ -1,17 +1,18 @@
-# Some Feature A
+# My feature A
 
-## Subsection
+## Subsection A.a
 
-I would like to have a list of my favo packages
+I would like to have a list of my favorite packages
 - numpy
 - pyvista
 - machine learning
-    - tensorflow
     - pytorch
-    - keras
+    - Tensorflow - Keras
 
-But I can also write this equation {math}`x=32 \beta` inline.
+But I cas also write this equation {math}`x=32 \beta` inline.
 
 But I also can have equations:
 
-```{math}a^2 + b^2 = c^2
+```{math}
+a^2 + b^2 = c^2
+```
